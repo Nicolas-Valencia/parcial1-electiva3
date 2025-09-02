@@ -7,7 +7,7 @@ export class PaymentsService {
 
   async findAll() {
     return {
-      message: 'Pago obtenido (simulación)',
+      message: 'Pagos obtenidos (simulación)',
     };
   }
 
